@@ -1,5 +1,4 @@
-HELP.md
-target/
+/target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -32,6 +31,8 @@ build/
 ### VS Code ###
 .vscode/
 
-./src/test
+/src/test
 
-src/main/resources/application.yml
+/src/main/resources/
+/src/main/resources/*
+!/src/main/resources/.gitkeep
