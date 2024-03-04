@@ -1,0 +1,7 @@
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://sa:123@nguyenminhhieu.nt9wqht.mongodb.net/TOP1?retryWrites=true&w=majority&appName=NguyenMinhHieu
+      database: NoiTangStorage
+
